@@ -1,0 +1,10 @@
+B'eget' b'id' 
+B'diam' b'ut' b
+B'urna' b'id'
+# B'urna' b'a
+# B'nisl' b'mi'
+B'duis' b'i
+B'orci' b'ac'
+B'eros' b'ad' b
+# B'amet' b'u
+B'quam'
